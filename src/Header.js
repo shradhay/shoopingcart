@@ -23,7 +23,7 @@ function Header() {
           {/*3 links*/}
           <div className="header___nav">
              {/*1st link */}
-             <Link className="header__link">
+             <Link className="header__link" to="/login">
              <div className="header__option">
              <span className="header_optionLineone">Hello user</span>
              <span className="header_optionLineTwo" >Sign In</span>
@@ -49,10 +49,10 @@ function Header() {
             <Link to="/Checkout" className="header_link">
                 <div className="headerOptionBasket">
                     {/* shooping cart */}
-                    <ShoppingCartIcon className="header_shoopingicon"></ShoppingCartIcon>
+                    <ShoppingCartIcon className="header_optionBasket"></ShoppingCartIcon>
                     
                     {/*No of item in basket */}
-                    <span>0</span>
+                    <span className="header_optionLineTwo header_basketCount" >0</span>
 
                 </div>
             </Link>

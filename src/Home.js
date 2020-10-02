@@ -48,25 +48,35 @@ function Home() {
         <div className="home_row">
         <Products
         id="1"
-        title="Laptop"
-        price={50000}
-        rating={5}
-        image="https://images-na.ssl-images-amazon.com/images/I/917QAUQorDL._SL1500_.jpg"
+        title="Study Table"
+        price={4000}
+        rating={4}
+        image="https://images-na.ssl-images-amazon.com/images/I/71ptZKUUIoL._SL1500_.jpg"
+
+        />
+        
+         <Products
+        id="1"
+        title="Washing Machine"
+        price={29800}
+        rating={3}
+        image="https://www.lg.com/in/images/washing-machines/md07512155/gallery/FHT1065HNL-Washing-Machines-Right-View-D-06.jpg"
 
         />
          <Products
         id="1"
-        title="Laptop"
-        price={50000}
-        rating={5}
-        image="https://images-na.ssl-images-amazon.com/images/I/917QAUQorDL._SL1500_.jpg"
+        title="Vaccum  cleaner"
+        price={12900}
+        rating={2}
+        image=" https://images-na.ssl-images-amazon.com/images/I/81FmgV2Fu0L._SL1500_.jpg"
 
         />
         </div>
         <div className="home_row">
+       
         <Products
         id="1"
-        title="Laptop"
+        title="TV"
         price={50000}
         rating={5}
         image="https://images-na.ssl-images-amazon.com/images/I/917QAUQorDL._SL1500_.jpg"
@@ -74,10 +84,10 @@ function Home() {
         />
          <Products
         id="1"
-        title="Laptop"
-        price={50000}
+        title="Dinning Table"
+        price={35000}
         rating={5}
-        image="https://images-na.ssl-images-amazon.com/images/I/917QAUQorDL._SL1500_.jpg"
+        image="https://m.media-amazon.com/images/I/71wr4rcU5RL._AC_SX410_SY308_.jpg"
 
         />
         </div>

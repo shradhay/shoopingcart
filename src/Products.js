@@ -7,8 +7,10 @@ function Products({id,title,image,price,rating}) {
 
             <div className="product_info">
             <p>{title}</p>
+            
             <p className="product_price"> 
-          <small>$</small>
+            <i class="fa fa-inr"></i>
+             
            <strong>{price}</strong></p>
            <div className="product_rating">
                {

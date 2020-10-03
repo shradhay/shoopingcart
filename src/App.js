@@ -1,8 +1,11 @@
+import { CheckOutlined } from '@material-ui/icons'
 import React from 'react'
 import {BrowserRouter as Router,Switch,Route} from "react-router-dom"
 import Header from "./Header"
 import Home from './Home'
 import "./index.css"
+import CheckOut from "./CheckOut"
+import Login from "./Login"
 const App =()=>{
   return(
     <>
@@ -11,10 +14,11 @@ const App =()=>{
     <Switch>
        <Route path="/checkout">
        <Header/>
-         <h1>checkout</h1>
+         
+         <CheckOut/>
        </Route>
        <Route path="/login">
-        <h1>login page</h1>
+        <Login/>
        </Route>
        <Route path="/">
          <Header/>

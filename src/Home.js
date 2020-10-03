@@ -52,17 +52,14 @@ function Home() {
         price={4000}
         rating={4}
         image="https://images-na.ssl-images-amazon.com/images/I/71ptZKUUIoL._SL1500_.jpg"
-
         />
-        
-         <Products
+        <Products
         id="1"
         title="Washing Machine"
         price={29800}
         rating={3}
         image="https://www.lg.com/in/images/washing-machines/md07512155/gallery/FHT1065HNL-Washing-Machines-Right-View-D-06.jpg"
-
-        />
+       />
          <Products
         id="1"
         title="Vaccum  cleaner"

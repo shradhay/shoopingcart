@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/shoopingcart/static/css/main.fecf883c.chunk.css",
+    "main.js": "/shoopingcart/static/js/main.cb1e2a06.chunk.js",
+    "main.js.map": "/shoopingcart/static/js/main.cb1e2a06.chunk.js.map",
+    "runtime-main.js": "/shoopingcart/static/js/runtime-main.c7856292.js",
+    "runtime-main.js.map": "/shoopingcart/static/js/runtime-main.c7856292.js.map",
+    "static/js/2.016bcd98.chunk.js": "/shoopingcart/static/js/2.016bcd98.chunk.js",
+    "static/js/2.016bcd98.chunk.js.map": "/shoopingcart/static/js/2.016bcd98.chunk.js.map",
+    "index.html": "/shoopingcart/index.html",
+    "precache-manifest.987224af0d59ef86057d84695b363884.js": "/shoopingcart/precache-manifest.987224af0d59ef86057d84695b363884.js",
+    "service-worker.js": "/shoopingcart/service-worker.js",
+    "static/css/main.fecf883c.chunk.css.map": "/shoopingcart/static/css/main.fecf883c.chunk.css.map",
+    "static/js/2.016bcd98.chunk.js.LICENSE.txt": "/shoopingcart/static/js/2.016bcd98.chunk.js.LICENSE.txt",
+    "static/media/banner2.jpg": "/shoopingcart/static/media/banner2.c364afe7.jpg",
+    "static/media/logo.jpg": "/shoopingcart/static/media/logo.6876fea7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7856292.js",
+    "static/js/2.016bcd98.chunk.js",
+    "static/css/main.fecf883c.chunk.css",
+    "static/js/main.cb1e2a06.chunk.js"
+  ]
+}
